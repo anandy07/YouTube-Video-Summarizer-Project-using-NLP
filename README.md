@@ -1,7 +1,6 @@
 # 📽️ YouTube Video Summarizer
 
-An intelligent NLP-based  **automatically summarizes YouTube videos**. It extracts the transcript using the YouTube API and summarizes it using **Hugging Face Transformers**
-
+YouTube Video Summarizer is an AI-powered web app that automatically generates concise summaries of YouTube videos. It extracts subtitles using the YouTubeTranscriptApi and uses advanced NLP models (like BART from Hugging Face) to summarize the content. Built with Python and Streamlit, the app helps users quickly understand long videos without watching them in full.
 ---
 
 ## 🚀 Features
