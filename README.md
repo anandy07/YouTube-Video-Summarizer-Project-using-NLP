@@ -9,7 +9,6 @@ YouTube Video Summarizer is an NLP-based project that extracts transcripts from 
 
 - ✅ **Transcript Extraction** using `YouTubeTranscriptApi`  
 - ✅ **Summarization** using Hugging Face Transformers (BART / T5 / Pegasus)  
-- ✅ **Streamlit Web App** with clean and simple interface  
 - ✅ **Chunked Summarization** for long videos  
 - ✅ **Graceful Handling** of missing subtitles or unsupported videos
 
@@ -17,7 +16,6 @@ YouTube Video Summarizer is an NLP-based project that extracts transcripts from 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Streamlit  
 - **Backend**: Python  
 - **NLP Models**: Hugging Face Transformers  
 - **Transcript API**: `youtube-transcript-api`  
@@ -76,7 +74,6 @@ streamlit run app.py
 * Display both transcript and summary side-by-side  
 * Save/download summary as .txt or PDF  
 * Add summary language translation support  
-* Deploy on Hugging Face or Streamlit Cloud with login support  
 
 ---
 
